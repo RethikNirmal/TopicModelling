@@ -1,0 +1,14 @@
+{
+  "app": "SLACK",
+  "message_id": "test-001",
+  "channel": "#security",
+  "thread_id": null,
+  "sender_email": "security@company.com",
+  "sender_name": "Security Team",
+  "timestamp": "2026-04-18T15:00:00Z",
+  "content": "New CVE disclosed in our auth library — high severity. Need to patch and redeploy this week.",
+  "is_thread_reply": false,
+  "reply_to_message_id": null,
+  "reactions": [],
+  "mentions": []
+}

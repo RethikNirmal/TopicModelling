@@ -1,0 +1,13 @@
+{
+  "app": "GMAIL",
+  "message_id": "test-002",
+  "thread_id": null,
+  "from_email": "pm@company.com",
+  "from_name": "Product Manager",
+  "to": ["eng@company.com"],
+  "cc": [],
+  "subject": "Alpha launch checklist update",
+  "body": "Quick status on the alpha launch — we're on track for the marketing push next Tuesday. Need final sign-off on the launch checklist items.",
+  "timestamp": "2026-04-18T15:05:00Z",
+  "in_reply_to": null
+}

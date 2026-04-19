@@ -1,0 +1,11 @@
+{
+  "app": "OUTLOOK",
+  "message_id": "test-003",
+  "conversation_id": null,
+  "sender_email": "facilities@company.com",
+  "sender_name": "Facilities",
+  "recipients": ["all-staff@company.com"],
+  "subject": "Cafeteria menu changes for May",
+  "body_full": "Starting May 1 the cafeteria will rotate to a new spring menu featuring local produce. Vegetarian and vegan options expanded. Contact catering with feedback.",
+  "timestamp": "2026-04-18T15:10:00Z"
+}

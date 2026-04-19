@@ -1,0 +1,164 @@
+{
+  "silhouette_score_overall": 0.3515090346336365,
+  "n_threads": 300,
+  "n_noise": 11,
+  "embedder": "openai:text-embedding-3-small",
+  "topics": [
+    {
+      "topic_id": 0,
+      "label": "Q1 Budget Review and Allocation",
+      "keywords": [
+        "Q1 Budget Review and Allocation"
+      ],
+      "size": 31,
+      "representative_thread_keys": [
+        "GMAIL:gmail-thread-bd59534b",
+        "GMAIL:gmail-thread-597debac",
+        "GMAIL:gmail-thread-73355944"
+      ]
+    },
+    {
+      "topic_id": 1,
+      "label": "Team Offsite Planning",
+      "keywords": [
+        "Team Offsite Planning"
+      ],
+      "size": 30,
+      "representative_thread_keys": [
+        "OUTLOOK:outlook-thread-1a1e54e0",
+        "OUTLOOK:outlook-thread-ca05a547",
+        "GMAIL:gmail-thread-01ac1844"
+      ]
+    },
+    {
+      "topic_id": 2,
+      "label": "H1 Performance Review Process",
+      "keywords": [
+        "H1 Performance Review Process"
+      ],
+      "size": 29,
+      "representative_thread_keys": [
+        "GMAIL:gmail-thread-cb049852",
+        "OUTLOOK:outlook-thread-b6e181c7",
+        "OUTLOOK:outlook-thread-371d7cf5"
+      ]
+    },
+    {
+      "topic_id": 3,
+      "label": "Q2 OKR Planning and Alignment",
+      "keywords": [
+        "Q2 OKR Planning and Alignment"
+      ],
+      "size": 29,
+      "representative_thread_keys": [
+        "OUTLOOK:outlook-thread-1b883827",
+        "GMAIL:gmail-thread-59e123af",
+        "OUTLOOK:outlook-thread-221ef381"
+      ]
+    },
+    {
+      "topic_id": 4,
+      "label": "Remote Work Policy and Office Conditions",
+      "keywords": [
+        "Remote Work Policy and Office Conditions"
+      ],
+      "size": 28,
+      "representative_thread_keys": [
+        "SLACK:slack-thread-71c8d1ae",
+        "SLACK:slack-thread-95a9bb65",
+        "SLACK:slack-thread-fe483e19"
+      ]
+    },
+    {
+      "topic_id": 5,
+      "label": "Senior Backend Engineer Hiring Update",
+      "keywords": [
+        "Senior Backend Engineer Hiring Update"
+      ],
+      "size": 26,
+      "representative_thread_keys": [
+        "GMAIL:gmail-thread-3a7c3348",
+        "GMAIL:gmail-thread-2598685f",
+        "GMAIL:gmail-thread-b0ebeaf0"
+      ]
+    },
+    {
+      "topic_id": 6,
+      "label": "Security Patch Deployment and Vulnerability Remediation",
+      "keywords": [
+        "Security Patch Deployment and Vulnerability Remediation"
+      ],
+      "size": 25,
+      "representative_thread_keys": [
+        "GMAIL:gmail-thread-8dbd2c42",
+        "SLACK:slack-thread-79227823",
+        "GMAIL:gmail-thread-988bed21"
+      ]
+    },
+    {
+      "topic_id": 7,
+      "label": "AWS Cost Optimization and Savings",
+      "keywords": [
+        "AWS Cost Optimization and Savings"
+      ],
+      "size": 21,
+      "representative_thread_keys": [
+        "GMAIL:gmail-thread-e7bf7d9c",
+        "GMAIL:gmail-thread-be64ddac",
+        "GMAIL:gmail-thread-abb07a8f"
+      ]
+    },
+    {
+      "topic_id": 8,
+      "label": "Sarah's Onboarding Process",
+      "keywords": [
+        "Sarah's Onboarding Process"
+      ],
+      "size": 20,
+      "representative_thread_keys": [
+        "OUTLOOK:outlook-thread-d3a58e9d",
+        "SLACK:slack-thread-d08ac65f",
+        "OUTLOOK:outlook-thread-be8feb38"
+      ]
+    },
+    {
+      "topic_id": 9,
+      "label": "Technical Debt Prioritization and Cleanup",
+      "keywords": [
+        "Technical Debt Prioritization and Cleanup"
+      ],
+      "size": 20,
+      "representative_thread_keys": [
+        "SLACK:slack-thread-1d0efd67",
+        "SLACK:slack-thread-231fa494",
+        "SLACK:slack-thread-7411138a"
+      ]
+    },
+    {
+      "topic_id": 10,
+      "label": "Project Alpha Launch Status Update",
+      "keywords": [
+        "Project Alpha Launch Status Update"
+      ],
+      "size": 17,
+      "representative_thread_keys": [
+        "OUTLOOK:outlook-thread-dc67e7da",
+        "GMAIL:gmail-thread-813a4ff9",
+        "GMAIL:gmail-thread-e88ccb1b"
+      ]
+    },
+    {
+      "topic_id": 11,
+      "label": "Acme Incident Postmortem and Follow-up",
+      "keywords": [
+        "Acme Incident Postmortem and Follow-up"
+      ],
+      "size": 13,
+      "representative_thread_keys": [
+        "OUTLOOK:outlook-thread-e180031a",
+        "OUTLOOK:outlook-thread-afa1dc4b",
+        "OUTLOOK:outlook-thread-566394f0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+bertopic
+sentence-transformers
+scikit-learn
+hdbscan
+umap-learn
+numpy
+openai
+python-dotenv
+fastapi
+uvicorn[standard]
+pydantic-settings
+nltk

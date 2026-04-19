@@ -1,0 +1,1502 @@
+{
+  "OUTLOOK:outlook-thread-7bbf54b1": {
+    "topic_id": 2,
+    "probability": 0.584341734222562,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-3c7fddff": {
+    "topic_id": 2,
+    "probability": 0.541941579058001,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-40d28138": {
+    "topic_id": 0,
+    "probability": 0.8680347116810634,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-e180031a": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-dc67e7da": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-9bf997e6": {
+    "topic_id": 2,
+    "probability": 0.8995094353543033,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-5e076d90": {
+    "topic_id": 0,
+    "probability": 0.8986257088007503,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-506e9f8c": {
+    "topic_id": 2,
+    "probability": 0.6349302179804934,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-d3a58e9d": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-6910ffe3": {
+    "topic_id": 8,
+    "probability": 0.8421796655682711,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-3a7c3348": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-fd82e354": {
+    "topic_id": 4,
+    "probability": 0.22077560943474478,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-e300126b": {
+    "topic_id": 0,
+    "probability": 0.709237641793461,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-1b883827": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-8dbd2c42": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-2598685f": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-cb4c5e58": {
+    "topic_id": 6,
+    "probability": 0.7587274824793153,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-1d0efd67": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-79227823": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-bd59534b": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-597debac": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-d08ac65f": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-59e123af": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-e7bf7d9c": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-b943ccaa": {
+    "topic_id": 0,
+    "probability": 0.9042120678198318,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-2c27ca6f": {
+    "topic_id": 5,
+    "probability": 0.45535133483118406,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-9a4b61cb": {
+    "topic_id": 4,
+    "probability": 0.6643323065703036,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-8d78a5b7": {
+    "topic_id": 3,
+    "probability": 0.6719300125285323,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-980fef65": {
+    "topic_id": 0,
+    "probability": 0.8845396713141722,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-8f53be4c": {
+    "topic_id": 6,
+    "probability": 0.669318887352956,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-be64ddac": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-be7f9b5d": {
+    "topic_id": 8,
+    "probability": 0.7988099844339225,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-71c8d1ae": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-813a4ff9": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-c92a5ada": {
+    "topic_id": 1,
+    "probability": 0.6031011266686149,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-6043e69f": {
+    "topic_id": 2,
+    "probability": 0.6185792330531521,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-410ef3d8": {
+    "topic_id": 0,
+    "probability": 0.7058731642998267,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-95a9bb65": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-8fe6d46c": {
+    "topic_id": 9,
+    "probability": 0.3164518989533569,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-054d72c0": {
+    "topic_id": 1,
+    "probability": 0.2877672206795343,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-fe483e19": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-be8feb38": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-fd50b20f": {
+    "topic_id": 4,
+    "probability": 0.604578042665253,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-992749c4": {
+    "topic_id": 5,
+    "probability": 0.5736061954975756,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-abb07a8f": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-78468ac8": {
+    "topic_id": 9,
+    "probability": 0.7046161933454594,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-d03a8d50": {
+    "topic_id": 9,
+    "probability": 0.26826228198597457,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-bcbf40a1": {
+    "topic_id": 7,
+    "probability": 0.7706064677799621,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-80f076fd": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-6fec3dcb": {
+    "topic_id": 6,
+    "probability": 0.31387770212715393,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-6bf4485b": {
+    "topic_id": 4,
+    "probability": 0.7646420479835083,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-564389d5": {
+    "topic_id": 11,
+    "probability": 0.8759112726331136,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-f59465cd": {
+    "topic_id": 4,
+    "probability": 0.4731483421456317,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-53e2906c": {
+    "topic_id": 2,
+    "probability": 0.6263132058454558,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-e2cd7d10": {
+    "topic_id": 1,
+    "probability": 0.5406232884820232,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-a2c1c72e": {
+    "topic_id": 4,
+    "probability": 0.6494788892496187,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-ff9a5371": {
+    "topic_id": 3,
+    "probability": 0.5538394739124226,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-a3b5de50": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-0f58456b": {
+    "topic_id": 0,
+    "probability": 0.8042211647975426,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-0b5235a1": {
+    "topic_id": 4,
+    "probability": 0.4934647748672338,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-b0ebeaf0": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-1cedd7b1": {
+    "topic_id": 9,
+    "probability": 0.7248339792849106,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-ab840fff": {
+    "topic_id": 7,
+    "probability": 0.7862300901580812,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-76a6c1fb": {
+    "topic_id": 1,
+    "probability": 0.2927437079867422,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-cb049852": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-24387388": {
+    "topic_id": 2,
+    "probability": 0.7083690934258334,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-988bed21": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-ab067b9c": {
+    "topic_id": 3,
+    "probability": 0.7771837932198372,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-7dbd1e5f": {
+    "topic_id": 8,
+    "probability": 0.9196343456009178,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-3fcb6309": {
+    "topic_id": 9,
+    "probability": 0.30970880111806964,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-30ee4604": {
+    "topic_id": 0,
+    "probability": 0.93969052850974,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-a4735ee0": {
+    "topic_id": 1,
+    "probability": 0.61330376741383,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-c76cf9ae": {
+    "topic_id": 1,
+    "probability": 0.3149533084236904,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-1a1e54e0": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-8823cd41": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-cbe8d8e1": {
+    "topic_id": 5,
+    "probability": 0.4447261099272423,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-b6e181c7": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-612a1ae2": {
+    "topic_id": 8,
+    "probability": 0.8664452748252712,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-39451492": {
+    "topic_id": 7,
+    "probability": 0.7417056634134553,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-231fa494": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-e558cc7b": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-ffe6fd77": {
+    "topic_id": 5,
+    "probability": 0.07580523166096126,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-250f8321": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-afa1dc4b": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-221ef381": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-c05d43b8": {
+    "topic_id": 1,
+    "probability": 0.20654471327120738,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-d7db8acc": {
+    "topic_id": -1,
+    "probability": 0.2898920305128817,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-e96ca428": {
+    "topic_id": 4,
+    "probability": 0.7312807680118113,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-566394f0": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-73355944": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-42d64bb1": {
+    "topic_id": 3,
+    "probability": 0.7500175424012566,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-bd6b535a": {
+    "topic_id": -1,
+    "probability": 0.18737470982207177,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-2961cb17": {
+    "topic_id": 2,
+    "probability": 0.7411113077914073,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-371d7cf5": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-6033ffa1": {
+    "topic_id": 11,
+    "probability": 0.6961310171475017,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-3622a6b9": {
+    "topic_id": 0,
+    "probability": 0.7180154055908737,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-5cb74f38": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-86257808": {
+    "topic_id": 4,
+    "probability": 0.14903860795182675,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-e703ce3e": {
+    "topic_id": 0,
+    "probability": 0.8289768113575875,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-c63a966e": {
+    "topic_id": 3,
+    "probability": 0.5097701453062914,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-197d05d1": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-7411138a": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-58815401": {
+    "topic_id": 1,
+    "probability": 0.31644773114435754,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-49563d1d": {
+    "topic_id": 10,
+    "probability": 0.2943752715470675,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-ca05a547": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-b5fcc63e": {
+    "topic_id": 4,
+    "probability": 0.10198735435101036,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-c6721762": {
+    "topic_id": 2,
+    "probability": 0.6796248818173614,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-c354f7dc": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-42afc076": {
+    "topic_id": 6,
+    "probability": 0.7349233087475724,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-e7a0abdc": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-2c033aa4": {
+    "topic_id": 0,
+    "probability": 0.7903245889531137,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-283eda42": {
+    "topic_id": 1,
+    "probability": 0.3268500807508562,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-f0a3c835": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-9787e316": {
+    "topic_id": 2,
+    "probability": 0.6161542940847877,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-61b0d8de": {
+    "topic_id": 9,
+    "probability": 0.8537277707855372,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-f8cf8974": {
+    "topic_id": 9,
+    "probability": 0.16546593706945786,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-6a245763": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-e540e6f7": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-21dfbdde": {
+    "topic_id": 3,
+    "probability": 0.5188564448812722,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-8c40e40a": {
+    "topic_id": 0,
+    "probability": 0.911678972213794,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-d10a08f6": {
+    "topic_id": 3,
+    "probability": 0.8827987389475437,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-12f2766c": {
+    "topic_id": 5,
+    "probability": 0.4306113859333882,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-535f40d3": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-1f363ddb": {
+    "topic_id": 5,
+    "probability": 0.7972635466077698,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-d90c3b97": {
+    "topic_id": 6,
+    "probability": 0.20544940603096248,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-92e1db9e": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-ed0ea52c": {
+    "topic_id": 3,
+    "probability": 0.45956294266484066,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-00ffa8c2": {
+    "topic_id": 5,
+    "probability": 0.18621331933267413,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-adf9e312": {
+    "topic_id": 2,
+    "probability": 0.6719893102350738,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-603ce55a": {
+    "topic_id": 3,
+    "probability": 0.6266404634429755,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-738166ba": {
+    "topic_id": 3,
+    "probability": 0.9440767124110979,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-0cdab87a": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-23e97893": {
+    "topic_id": 1,
+    "probability": 0.27517282719906677,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-1c3f0998": {
+    "topic_id": 5,
+    "probability": 0.53972268328001,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-19939cca": {
+    "topic_id": 4,
+    "probability": 0.7405906860713596,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-79d751d7": {
+    "topic_id": 8,
+    "probability": 0.8615844018840746,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-e5271bcc": {
+    "topic_id": 3,
+    "probability": 0.8110302223957286,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-e88ccb1b": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-90d48c18": {
+    "topic_id": 7,
+    "probability": 0.8354870901005483,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-4d5013ed": {
+    "topic_id": 6,
+    "probability": 0.6797272236407276,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-00c7f76c": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-3a1284fa": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-3180135a": {
+    "topic_id": -1,
+    "probability": 0.11434458813006364,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-e1dca1bb": {
+    "topic_id": 5,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-ed979f63": {
+    "topic_id": 6,
+    "probability": 0.7609301016510378,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-e11828e3": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-a9baf60f": {
+    "topic_id": 6,
+    "probability": 0.5054898697518276,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-b7120051": {
+    "topic_id": 2,
+    "probability": 0.6698991474825203,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-c3260025": {
+    "topic_id": 0,
+    "probability": 0.7986865676070987,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-714d0eaf": {
+    "topic_id": 6,
+    "probability": 0.4045565378929586,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-46fcb9fe": {
+    "topic_id": 2,
+    "probability": 0.7678248666774007,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-b0780aff": {
+    "topic_id": 5,
+    "probability": 0.8049378520554171,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-11961780": {
+    "topic_id": 1,
+    "probability": 0.5118914970830449,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-98aa9d25": {
+    "topic_id": -1,
+    "probability": 0.1156401338951585,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-e0e6ee36": {
+    "topic_id": -1,
+    "probability": 0.22830292427126966,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-7fa7930a": {
+    "topic_id": 11,
+    "probability": 0.24948839943382384,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-0f02c4d1": {
+    "topic_id": 7,
+    "probability": 0.7362078018979726,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-526f39f6": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-2dea6e44": {
+    "topic_id": 6,
+    "probability": 0.860498511124556,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-da912e41": {
+    "topic_id": 2,
+    "probability": 0.6560774885694068,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-38bd9759": {
+    "topic_id": 1,
+    "probability": 0.5847287143534137,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-c207378d": {
+    "topic_id": -1,
+    "probability": 0.17567018960295733,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-e415c565": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-01ac1844": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-a41237cf": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-e5d0d557": {
+    "topic_id": 4,
+    "probability": 0.8974075796709258,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-5958d008": {
+    "topic_id": 0,
+    "probability": 0.7887840640417038,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-5a148e45": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-5ffc5f8f": {
+    "topic_id": -1,
+    "probability": 0.16491168099212167,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-ef50f46e": {
+    "topic_id": 0,
+    "probability": 0.8491914343504748,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-8f927655": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-d321e154": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-4756c1e8": {
+    "topic_id": 7,
+    "probability": 0.7464270497780199,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-6c7cd9a2": {
+    "topic_id": 0,
+    "probability": 0.8131759767485749,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-34fc70de": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-040d4c74": {
+    "topic_id": 5,
+    "probability": 0.2743967500441251,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-d01e16da": {
+    "topic_id": 3,
+    "probability": 0.42992214095302517,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-57bdcbd8": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-777c5351": {
+    "topic_id": 1,
+    "probability": 0.3327775505170317,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-99a89812": {
+    "topic_id": 8,
+    "probability": 0.6438304553200818,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-582519f3": {
+    "topic_id": 0,
+    "probability": 0.6965405610832436,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-53f74dde": {
+    "topic_id": 1,
+    "probability": 0.5837463216958997,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-6cfe8bb7": {
+    "topic_id": 0,
+    "probability": 0.8227830363735088,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-68428cf5": {
+    "topic_id": 1,
+    "probability": 0.07884480466114291,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-55d9b690": {
+    "topic_id": 6,
+    "probability": 0.24885441045010204,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-cb13eb15": {
+    "topic_id": 6,
+    "probability": 0.7785864649714137,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-6bff9979": {
+    "topic_id": 0,
+    "probability": 0.698567678491313,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-153b16c2": {
+    "topic_id": 3,
+    "probability": 0.9113337564732811,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-d1378270": {
+    "topic_id": 5,
+    "probability": 0.13251783700835507,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-3c0704bb": {
+    "topic_id": 6,
+    "probability": 0.6889271985705571,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-b82d19b4": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-49479a51": {
+    "topic_id": 7,
+    "probability": 0.6721897716249138,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-55c310a2": {
+    "topic_id": 10,
+    "probability": 0.7592054463670114,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-352f7234": {
+    "topic_id": -1,
+    "probability": 0.034095237710732515,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-b8bf15df": {
+    "topic_id": 4,
+    "probability": 0.45393652911403737,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-b4e6da55": {
+    "topic_id": 0,
+    "probability": 0.8990917474617642,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-57856462": {
+    "topic_id": 7,
+    "probability": 0.7984762981707223,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-e3e4ec00": {
+    "topic_id": 4,
+    "probability": 0.593946784611807,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-3d6af437": {
+    "topic_id": 1,
+    "probability": 0.5533875069200338,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-dbee4266": {
+    "topic_id": 5,
+    "probability": 0.550267887664782,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-ccd5c62e": {
+    "topic_id": 2,
+    "probability": 0.7516872953007074,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-dddbb25a": {
+    "topic_id": -1,
+    "probability": 0.04445199063389635,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-46aebca2": {
+    "topic_id": 2,
+    "probability": 0.5548133777569728,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-5b11e5ca": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-bae301b9": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-803d7026": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-e2739170": {
+    "topic_id": 10,
+    "probability": 0.7439554852017617,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-fd132815": {
+    "topic_id": 4,
+    "probability": 0.6707958439772783,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-63c7e82d": {
+    "topic_id": 5,
+    "probability": 0.44587479084490467,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-e56cf5d6": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-06d7374a": {
+    "topic_id": 5,
+    "probability": 0.4805306582507946,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-d5cbdf1d": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-5898e4d1": {
+    "topic_id": 0,
+    "probability": 0.6796717287604825,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-bc320f6a": {
+    "topic_id": 1,
+    "probability": 0.636978641000292,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-c1dcff2f": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-23e7ff93": {
+    "topic_id": 3,
+    "probability": 0.699938759932051,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-3cd1adfa": {
+    "topic_id": 5,
+    "probability": 0.5221257148602242,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-86e277fd": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-8a2104fc": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-917406ae": {
+    "topic_id": 2,
+    "probability": 0.7533729991780624,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-27ecc7c4": {
+    "topic_id": 5,
+    "probability": 0.4397787709163921,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-89f75cde": {
+    "topic_id": 8,
+    "probability": 0.7675708669081376,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-ff65ac01": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-9a40f888": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-e683683d": {
+    "topic_id": 4,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-2bcd4be8": {
+    "topic_id": 3,
+    "probability": 0.48036540938285,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-3e646a4c": {
+    "topic_id": 4,
+    "probability": 0.610381926120416,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-0570152f": {
+    "topic_id": 3,
+    "probability": 0.8732379487765489,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-7fdb2879": {
+    "topic_id": 7,
+    "probability": 0.8894742013586316,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-782596e6": {
+    "topic_id": 8,
+    "probability": 0.8664503170218895,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-7ac8a09e": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-4995602c": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-cb65b996": {
+    "topic_id": 10,
+    "probability": 0.7427955982915938,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-35eefd1a": {
+    "topic_id": 2,
+    "probability": 0.9105292207039908,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-727a5da6": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-9d3897ac": {
+    "topic_id": 0,
+    "probability": 0.7778340935650282,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-ad50e421": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-b7dbd527": {
+    "topic_id": 9,
+    "probability": 0.5210435878061617,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-b746b810": {
+    "topic_id": 10,
+    "probability": 0.7727958363602689,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-5a89c7a4": {
+    "topic_id": 7,
+    "probability": 0.8096463353231729,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-5e5dd141": {
+    "topic_id": 3,
+    "probability": 0.5893482627142527,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-759dd82f": {
+    "topic_id": 3,
+    "probability": 0.8053164385177316,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-10a225a3": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-c2a76771": {
+    "topic_id": 6,
+    "probability": 0.7319411178558018,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-002ed21a": {
+    "topic_id": 8,
+    "probability": 0.8422207320206667,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-318edd97": {
+    "topic_id": 1,
+    "probability": 0.4833353897556597,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-f07911b1": {
+    "topic_id": 6,
+    "probability": 0.7496241294564142,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-33e29f83": {
+    "topic_id": 6,
+    "probability": 0.6289696534589169,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-19de7130": {
+    "topic_id": 2,
+    "probability": 0.5671175753319876,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-6eda3960": {
+    "topic_id": 4,
+    "probability": 0.189053749023341,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-c5317d0c": {
+    "topic_id": 1,
+    "probability": 0.5324466507517905,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-a18c9d41": {
+    "topic_id": 5,
+    "probability": 0.29124852220861086,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-a7e15156": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-5d854b75": {
+    "topic_id": 11,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-2fc065d3": {
+    "topic_id": 1,
+    "probability": 0.245820272638423,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-6cef6c57": {
+    "topic_id": 9,
+    "probability": 0.6788776314630857,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-ae310dd6": {
+    "topic_id": 2,
+    "probability": 0.6182718070950348,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-3dc296fa": {
+    "topic_id": 1,
+    "probability": 0.46052858623322385,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-12981e94": {
+    "topic_id": 10,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-c5f8ce25": {
+    "topic_id": 3,
+    "probability": 0.3726190706584124,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-f2e7e68e": {
+    "topic_id": 4,
+    "probability": 0.800317476433726,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-fb71f9c6": {
+    "topic_id": 7,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-6d9fb40a": {
+    "topic_id": 5,
+    "probability": 0.6880376247338723,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-e068df70": {
+    "topic_id": 1,
+    "probability": 0.7689840814862611,
+    "app": "OUTLOOK"
+  },
+  "OUTLOOK:outlook-thread-dbcbeb3e": {
+    "topic_id": 10,
+    "probability": 0.616965435323558,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-67079fc7": {
+    "topic_id": 4,
+    "probability": 0.6812109643902893,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-e3dd012b": {
+    "topic_id": 8,
+    "probability": 0.6041211497407462,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-9c3c56a2": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-3539de60": {
+    "topic_id": 9,
+    "probability": 0.7674205829181197,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-3aeebe43": {
+    "topic_id": 7,
+    "probability": 0.9383663707642756,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-3ab0fad5": {
+    "topic_id": 2,
+    "probability": 0.5327150560599994,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-63c24c21": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-2bb1054c": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-a565e5ab": {
+    "topic_id": 7,
+    "probability": 0.7027045403838115,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-d2b1e0ae": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-249ae7fa": {
+    "topic_id": 11,
+    "probability": 0.1472461255850982,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-bf1142a9": {
+    "topic_id": 3,
+    "probability": 0.4816662207708363,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-be76d654": {
+    "topic_id": 6,
+    "probability": 0.6401536342113666,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-004c4963": {
+    "topic_id": 7,
+    "probability": 0.6504172119142184,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-eed3f8ef": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-675bebb2": {
+    "topic_id": 1,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-d5c2d1db": {
+    "topic_id": 10,
+    "probability": 0.8316982280801465,
+    "app": "OUTLOOK"
+  },
+  "GMAIL:gmail-thread-83f639ee": {
+    "topic_id": 0,
+    "probability": 0.7661879620473491,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-4124d78f": {
+    "topic_id": 0,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-027b32a4": {
+    "topic_id": 8,
+    "probability": 0.7004469708970942,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-a7704786": {
+    "topic_id": 9,
+    "probability": 0.6424818007609008,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-d1bde2c0": {
+    "topic_id": 2,
+    "probability": 1.0,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-bb6f2cb9": {
+    "topic_id": 4,
+    "probability": 0.1421128302651544,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-b28969ce": {
+    "topic_id": -1,
+    "probability": 0.033305708530291626,
+    "app": "SLACK"
+  },
+  "SLACK:slack-thread-077098b0": {
+    "topic_id": 8,
+    "probability": 0.6564658527820109,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-83af32ef": {
+    "topic_id": 6,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-c00addb4": {
+    "topic_id": 10,
+    "probability": 0.6401126289223957,
+    "app": "GMAIL"
+  },
+  "OUTLOOK:outlook-thread-8055bc80": {
+    "topic_id": 10,
+    "probability": 0.613022443489337,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-0bc94960": {
+    "topic_id": -1,
+    "probability": 0.1133994447680202,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-218155ab": {
+    "topic_id": 11,
+    "probability": 0.5553720006020717,
+    "app": "OUTLOOK"
+  },
+  "SLACK:slack-thread-941b511f": {
+    "topic_id": 9,
+    "probability": 0.7009642720143523,
+    "app": "SLACK"
+  },
+  "GMAIL:gmail-thread-056700c4": {
+    "topic_id": 8,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "GMAIL:gmail-thread-aea4d27b": {
+    "topic_id": 3,
+    "probability": 1.0,
+    "app": "GMAIL"
+  },
+  "SLACK:slack-thread-728170c7": {
+    "topic_id": 9,
+    "probability": 1.0,
+    "app": "SLACK"
+  },
+  "OUTLOOK:outlook-thread-58388ef0": {
+    "topic_id": 3,
+    "probability": 0.41854616793038874,
+    "app": "OUTLOOK"
+  }
+}

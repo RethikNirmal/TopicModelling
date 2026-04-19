@@ -1,0 +1,173 @@
+{
+  "company_domain": "company.com",
+  "people": [
+    {
+      "person_id": "diana.director@company.com",
+      "email": "diana.director@company.com",
+      "display_name": "Diana Lee",
+      "first_name": "diana",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "alice.chen@company.com",
+      "email": "alice.chen@company.com",
+      "display_name": "Alice Chen",
+      "first_name": "alice",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "hr@company.com",
+      "email": "hr@company.com",
+      "display_name": "HR Team",
+      "first_name": "hr",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "mike.manager@company.com",
+      "email": "mike.manager@company.com",
+      "display_name": "Mike Thompson",
+      "first_name": "mike",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "bob.martinez@company.com",
+      "email": "bob.martinez@company.com",
+      "display_name": "Bob Martinez",
+      "first_name": "bob",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "accounts@company.com",
+      "email": "accounts@company.com",
+      "display_name": "Amy Account",
+      "first_name": "amy",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "support.lead@company.com",
+      "email": "support.lead@company.com",
+      "display_name": "Sam Support",
+      "first_name": "sam",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "david.kim@company.com",
+      "email": "david.kim@company.com",
+      "display_name": "David Kim",
+      "first_name": "david",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "client@external.com",
+      "email": "client@external.com",
+      "display_name": "John Client",
+      "first_name": "john",
+      "is_role_mailbox": false,
+      "is_external": true
+    },
+    {
+      "person_id": "cto@company.com",
+      "email": "cto@company.com",
+      "display_name": "Chris Anderson",
+      "first_name": "chris",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "finance@company.com",
+      "email": "finance@company.com",
+      "display_name": "Finance Team",
+      "first_name": "finance",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "sarah.chen@company.com",
+      "email": "sarah.chen@company.com",
+      "display_name": "Sarah Chen",
+      "first_name": "sarah",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "recruiter@company.com",
+      "email": "recruiter@company.com",
+      "display_name": "Rachel Recruiter",
+      "first_name": "rachel",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "devops@company.com",
+      "email": "devops@company.com",
+      "display_name": "DevOps Team",
+      "first_name": "devops",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "security@company.com",
+      "email": "security@company.com",
+      "display_name": "Security Team",
+      "first_name": "security",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "hiring.manager@company.com",
+      "email": "hiring.manager@company.com",
+      "display_name": "Henry Liu",
+      "first_name": "henry",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "cfo@company.com",
+      "email": "cfo@company.com",
+      "display_name": "Frank Wilson",
+      "first_name": "frank",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "carol.johnson@company.com",
+      "email": "carol.johnson@company.com",
+      "display_name": "Carol Johnson",
+      "first_name": "carol",
+      "is_role_mailbox": false,
+      "is_external": false
+    },
+    {
+      "person_id": "tech.lead@company.com",
+      "email": "tech.lead@company.com",
+      "display_name": "Tom Tech",
+      "first_name": "tom",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "admin@company.com",
+      "email": "admin@company.com",
+      "display_name": "Admin Team",
+      "first_name": "admin",
+      "is_role_mailbox": true,
+      "is_external": false
+    },
+    {
+      "person_id": "contact@acme.com",
+      "email": "contact@acme.com",
+      "display_name": "Lisa Acme",
+      "first_name": "lisa",
+      "is_role_mailbox": false,
+      "is_external": true
+    }
+  ]
+}
